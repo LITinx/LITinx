@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <!---
 LITinx/LITinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
