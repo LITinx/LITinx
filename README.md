@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - 👋 Hi, I’m @LITinx
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23B1DCF7&size=16&center=true&lines=Frontend+Developer+%7C+Computer+Science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23B1DCF7&center=true&lines=Frontend+Developer+%7C+Computer+Science+student)](https://git.io/typing-svg)
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
